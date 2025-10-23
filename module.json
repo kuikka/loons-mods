@@ -1,0 +1,65 @@
+{
+    "id": "loons-mods",
+    "title": "Loon's Mods - Mods I like to use in my Foundry VTT games",
+    "description": "Just a collection of mods I like to use.",
+    "authors": [
+        {
+            "name": "ArcticLoon"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "relationships": {
+        "requires": [
+            {
+                "id": "combat-tracker-dock",
+                "type": "module"
+            },
+            {
+                "id": "dice-so-nice",
+                "type": "module"
+            },
+            {
+                "id": "dice-calculator",
+                "type": "module"
+            },
+            {
+                "id": "smalltime",
+                "type": "module"
+            },
+            {
+                "id": "sequencer",
+                "type": "module"
+            },
+            {
+                "id": "xdy-pf2e-workbench",
+                "type": "module"
+            },
+            {
+                "id": "pf2e-toolbelt",
+                "type": "module"
+            },
+            {
+                "id": "pf2e-modifiers-matter",
+                "type": "module"
+            },
+            {
+                "id": "pf2e-thaum-vuln",
+                "type": "module"
+            },
+            {
+                "id": "pf2e-effects-halo",
+                "type": "module"
+            },
+            {
+                "id": "healthEstimate",
+                "type": "module"
+            }
+        ]
+    }
+}
+
+
