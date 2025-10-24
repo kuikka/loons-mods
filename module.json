@@ -19,6 +19,10 @@
     "relationships": {
         "requires": [
             {
+                "id": "lib-wrapper",
+                "type": "module"
+            },
+            {
                 "id": "combat-tracker-dock",
                 "type": "module"
             },
